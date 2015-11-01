@@ -1,3 +1,5 @@
+<a href="http://hexbridge.github.io/progress-meter/">See demo here</a>
+
 ## Description
 
 This plugin displays the current reading position (how much you have read, depending on how far you have scrolled down an article). It should be used on blog posts or long form articles to help readers understand how far they are from finishing the article.
